@@ -1,0 +1,6 @@
+/data
+/logs
+.env
+.env.backup
+.idea
+.vs
