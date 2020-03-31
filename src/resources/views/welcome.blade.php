@@ -83,7 +83,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Simple RSS reader - Yeah!
                 </div>
 
                 <div class="links">
